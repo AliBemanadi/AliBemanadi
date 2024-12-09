@@ -13,7 +13,7 @@ Hi, I’m **Ali Bemanadi**. I am a computer engineer at **Ferdowsi University of
   | java | Competent |
   | php | Competent |
   | C | Competent |
-  | Bash Script | Amateur |
+  | Bash Script | Competent |
   | js | Amateur |
 - How to reach me:
   1. Telegram: https://t.me/ali_bemanadi
