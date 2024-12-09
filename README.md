@@ -1,5 +1,5 @@
 # About me
-Hi, I’m **Ali Bemanadi**. I am a computer engineer at **Ferdowsi University of Mashhad**. I am currently working at **Fava** Center of Ferdowsi University
+Hi, I’m **Ali Bemanadi**. I am a computer engineer at **Ferdowsi University of Mashhad**.
 - I’m interested in Automation, linux and network
 - I’m currently learning bash script
 - these are my skills:
